@@ -27,8 +27,6 @@ txAdmin ist ein komplett kostenloses, voll ausgestattetes Web-Panel, um deinen F
 
 
 
-![img](https://screensaver01.zap-hosting.com/index.php/s/wzcQqB3MY7k28rZ/preview)
-
 Kopiere die Informationen zum Benutzer und Passwort und klicke auf den Link (IP-Adresse:Port), um das txAdmin Interface aufzurufen und dich einzuloggen. Im Anschluss öffnet sich das txAdmin Interface in einem neuen Fenster, wo du dich mit den vorgegebenen Zugangsdaten einloggen musst. 
 
 ![img](https://screensaver01.zap-hosting.com/index.php/s/pp8GLQBoX4LoqTA/preview)
